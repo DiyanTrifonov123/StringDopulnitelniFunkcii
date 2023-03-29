@@ -1,0 +1,8 @@
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.exe.config
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.exe
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\bin\Debug\RazklashtaneNaMerlah.pdb
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.AssemblyReference.cache
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.SuggestedBindingRedirects.cache
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.csproj.CoreCompileInputs.cache
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.exe
+E:\Programming\StringDopulnitelniFunkcii\RazklashtaneNaMerlah\obj\Debug\RazklashtaneNaMerlah.pdb

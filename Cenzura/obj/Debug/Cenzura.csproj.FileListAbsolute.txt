@@ -1,0 +1,8 @@
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\bin\Debug\Cenzura.exe.config
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\bin\Debug\Cenzura.exe
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\bin\Debug\Cenzura.pdb
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\obj\Debug\Cenzura.csproj.AssemblyReference.cache
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\obj\Debug\Cenzura.csproj.SuggestedBindingRedirects.cache
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\obj\Debug\Cenzura.csproj.CoreCompileInputs.cache
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\obj\Debug\Cenzura.exe
+E:\Programming\StringDopulnitelniFunkcii\Cenzura\obj\Debug\Cenzura.pdb
